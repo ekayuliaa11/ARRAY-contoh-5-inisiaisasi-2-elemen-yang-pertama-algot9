@@ -16,3 +16,5 @@
     getch ();
     return 0;
     }
+
+![img](https://github.com/ekayuliaa11/ARRAY-contoh-5-inisiaisasi-2-elemen-yang-pertama-algot9/blob/master/algot9%20contoh5.png?raw=true)
